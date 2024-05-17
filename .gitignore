@@ -1,0 +1,8 @@
+venv
+*.pyc
+app.db
+test_app.db
+__pycache__
+./README.md
+.idea
+.coverage
